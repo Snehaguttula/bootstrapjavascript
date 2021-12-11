@@ -1,0 +1,22 @@
+{"profile":[{
+    "img":"v.jpg",
+    "name":"kim taehyung",
+    "pin":513,
+    "branch":"CSE-A",
+    "college":"GIER"
+    },
+    {
+        "img":"v.jpg",
+        "name":"v",
+        "pin":553,
+        "branch":"CSE-A",
+        "college":"GIER"
+    },
+    {
+        "img":"flower.jpg",
+        "name":"lilly",
+        "pin":546,
+        "branch":"CSE-A",
+        "college":"GIER"
+    }]
+}
